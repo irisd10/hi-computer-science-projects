@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4ac4e79-257a-4960-9191-edc67c9d1ced" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="ProjectId" id="1xsK4rdyI07H5nD8S7HObSHUfIY" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunManager" selected="Application.MinnstaMidja">
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="MinnstaMidja" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MinnstaMidja" />
+      <module name="Skilaverkefni 2" />
+      <option name="PROGRAM_PARAMETERS" value="9 3 10" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Sivalningur" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Sivalningur" />
+      <module name="Skilaverkefni 2" />
+      <option name="PROGRAM_PARAMETERS" value="1.5 3.0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Stafaruna" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Stafaruna" />
+      <module name="Skilaverkefni 2" />
+      <option name="PROGRAM_PARAMETERS" value="100 5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Undan" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Undan" />
+      <module name="Skilaverkefni 2" />
+      <option name="PROGRAM_PARAMETERS" value="1 3 2017 1 2 2018" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Vaxtavextir" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Vaxtavextir" />
+      <module name="Skilaverkefni 2" />
+      <option name="PROGRAM_PARAMETERS" value="100000.0 -0.5 3" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
